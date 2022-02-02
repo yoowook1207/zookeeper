@@ -119,26 +119,18 @@
       "id": "11"
     },
     {
+      "name": "LArry",
+      "species": "LAmur",
+      "diet": "herbivore",
+      "personalityTraits": [],
       "id": "12"
     },
     {
+      "name": "LArry",
+      "species": "LAmur",
+      "diet": "herbivore",
+      "personalityTraits": [],
       "id": "13"
-    },
-    {
-      "id": "14"
-    },
-    {
-      "id": "15"
-    },
-    {
-      "name": "Sung",
-      "species": "Homo Sapience",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry",
-        "happy"
-      ],
-      "id": "16"
     }
   ]
 }
